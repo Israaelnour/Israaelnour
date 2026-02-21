@@ -1,6 +1,6 @@
 # Hi there, I'm Israa! 👋
 
-### 👩‍💻 ITSupportPro | Lifelong Learner
+### 👩‍💻 IT Support Pro | Lifelong Learner
 
 I am a passionate IT Technical Support specialist dedicated to resolving hardware and software issues efficiently and providing seamless technical solutions. I believe in the power of continuous growth and self-development to solve complex problems.
 
