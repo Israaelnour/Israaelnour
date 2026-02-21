@@ -8,12 +8,13 @@ I am a passionate IT Technical Support specialist dedicated to resolving hardwar
 
 ### 🚀 About Me
 
-- ⚡ **What defines me:** Fast learner, detail-oriented, and highly adaptable to new technologies.
-- 📚 **Currently learning:** Deep diving into **JavaScript** to build more interactive and dynamic web applications.
-- 🛠️ **Current project:** Building my **Personal Portfolio** to showcase my journey and technical skills.
-- 🎯 **Goal:** Expanding my freelance career and contributing to impactful web projects.
+⚡ **What defines me:** Fast learner, detail-oriented, and highly adaptable to new technologies.
 
----
+📚 **Currently learning:** Deepening my knowledge in troubleshooting hardware and software issues, networking, and system administration.  
+
+🛠️ **Current project:** Setting up and managing my personal IT lab to practice real-world technical support scenarios.
+
+🎯 **Goal:** Expanding my IT support career and providing efficient solutions to help businesses and users overcome technical challenges.
 
 ### 🛠️ Technical Skills
 
