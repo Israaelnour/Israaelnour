@@ -1,8 +1,8 @@
 # Hi there, I'm Israa! 👋
 
-### 👩‍💻 Freelance Web Developer | Lifelong Learner
+### 👩‍💻 ITSupportPro | Lifelong Learner
 
-I am a passionate Freelance Developer dedicated to building clean and functional web experiences. I believe in the power of continuous growth and self-development to solve complex problems through code.
+I am a passionate IT Technical Support specialist dedicated to resolving hardware and software issues efficiently and providing seamless technical solutions. I believe in the power of continuous growth and self-development to solve complex problems.
 
 ---
 
